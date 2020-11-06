@@ -26,8 +26,8 @@ Once you have added this repository, you must add a dependency on the blob-api a
 In the *dependencies* section of your *pom.xml* file, you will need to add the following:
 
     <dependency>
-        <groupId>edu.murraystate.csc430</groupId>
-        <artifactId>blob-api</artifactId>
+        <groupId>edu.murraystate</groupId>
+        <artifactId>csc430-blob-api</artifactId>
         <version>1.0</version>
     </dependency>
     
